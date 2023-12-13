@@ -238,6 +238,7 @@ section {
 .btn-color-1:hover,
 .btn-color-2:hover {
   cursor: pointer;
+  
 }
 
 .btn-color-1,
@@ -326,6 +327,7 @@ section {
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 2rem;
+  justify-content: center;
 }
 
 .experience-details-container {
